@@ -4,7 +4,7 @@
  Modified by Nguyen Cong Huy on 9 Sep 2015
  */
 
-#import "NHNetAssociation.h"
+#import <NHNetworkTime/NHNetAssociation.h>
 
 #define kNHNetworkTimeSyncCompleteNotification @"kNHNetworkTimeSyncCompleteNotification"
 

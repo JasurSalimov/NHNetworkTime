@@ -5,7 +5,7 @@
 // To use, simply call [NSDate networkDate];
 
 #import <Foundation/Foundation.h>
-#import "NHNetworkClock.h"
+#import <NHNetworkTime/NHNetworkClock.h>
 
 
 @interface NSDate (NetworkClock)

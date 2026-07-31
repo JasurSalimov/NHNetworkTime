@@ -1,6 +1,6 @@
 
 
-#import "NSDate+NetworkClock.h"
+#import <NHNetworkTime/NSDate+NetworkClock.h>
 
 @implementation NSDate (NetworkClock)
 

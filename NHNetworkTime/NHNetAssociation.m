@@ -1,7 +1,7 @@
-#import "NHNetAssociation.h"
+#import <NHNetworkTime/NHNetAssociation.h>
 #import <sys/time.h>
-#import "NHNTLog.h"
-#import "NSDate+NetworkClock.h"
+#import <NHNetworkTime/NHNTLog.h>
+#import <NHNetworkTime/NSDate+NetworkClock.h>
 
 /*┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
   │  NTP Timestamp Structure                                                                         │

@@ -13,7 +13,11 @@
 
 
 
+#if __has_include(<CocoaAsyncSocket/GCDAsyncUdpSocket.h>)
 #import <CocoaAsyncSocket/GCDAsyncUdpSocket.h>
+#else
+@import CocoaAsyncSocket;
+#endif
 
 @protocol NHNetAssociationDelegate;
 

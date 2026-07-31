@@ -1,7 +1,7 @@
 #import <arpa/inet.h>
 
-#import "NHNetworkClock.h"
-#import "NHNTLog.h"
+#import <NHNetworkTime/NHNetworkClock.h>
+#import <NHNetworkTime/NHNTLog.h>
 
 #define kTimeOffsetKey @"kTimeOffsetKey"
 
